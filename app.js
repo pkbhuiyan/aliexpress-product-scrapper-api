@@ -23,3 +23,7 @@ app.get("/product/:id", function(req, res){
         });
     });
 });
+
+
+// const browser = await puppeteer.launch({ args: ['--no-sandbox'] });
+// aliexpress-product-scrapper/src/aliexpressProductScrapper.js
